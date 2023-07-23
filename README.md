@@ -1,6 +1,6 @@
 # :man_technologist: Daniel Rodrigues Pereira
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](linkedin.com/in/daniel-rodrigues-242893274/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/daniel-rodrigues-242893274/)
 ![Insatgram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rodrigues.daniel_/)
 
 ## Hello World 👋
