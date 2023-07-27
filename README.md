@@ -6,8 +6,15 @@
 ## Hello World 👋
 
 My name is Daniel, I'm Brazilian and I love my country.
+<div style="display: flex;">
+  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=daniel-rodrigues1089&show_icons=true&theme=transparent">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-rodrigues1089&show_icons=true&theme=dark)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-rodrigues1089&layout=compact&theme=transparent">
+</div>
+
+
+
+
 
 ## 🔧 Technical Skills
 - Solid foundation in Java ☕️
