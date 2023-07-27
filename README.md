@@ -7,6 +7,8 @@
 
 My name is Daniel, I'm Brazilian and I love my country.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-rodrigues1089&show_icons=true&theme=dark)
+
 ## 🔧 Technical Skills
 - Solid foundation in Java ☕️
 - Fluent in Python/Flask 🐍
