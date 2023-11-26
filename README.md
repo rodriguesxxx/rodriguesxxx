@@ -21,7 +21,7 @@ My name is Daniel, I'm Brazilian and I love my country.
 - Fluent in Python/Flask 🐍
 - Expertise in PHP/Laravel 🚀
 - Proficient in relational databases 📊
-- Web3 (HTML/CSS/JS)🌐
+- Web (HTML/CSS/JS)🌐
 
 I am always eager to learn new things and possess the necessary discipline to achieve my goals.
 
