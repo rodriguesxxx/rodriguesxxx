@@ -15,7 +15,19 @@ My name is Daniel, I'm Brazilian and I love my country.
 
 
 
+## 🔧 Technical Skills
+- Solid foundation in Java ☕️
+- Fluent in Python/Flask 🐍
+- Expertise in PHP/Laravel 🚀
+- Proficient in relational databases 📊
+- Web (HTML/CSS/JS)🌐
 
+
+## 🔧 Soft Skills
+- **Leadership** - I worked as a team leader in several robotics competitions.
+- **Communication** - I have excellent communication, I can express myself clearly and objectively.
+- **Discipline** - I have the necessary discipline to carry out any task with excellence.
+  
 ## 💻 Tech
 <div style="display: flex">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -36,7 +48,7 @@ My name is Daniel, I'm Brazilian and I love my country.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 <br><br>
-I am always eager to learn new things and possess the necessary discipline to achieve my goals.
+I am always eager to learn new things.
 
 **Open to exciting opportunities! 🌟**
 
