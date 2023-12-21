@@ -47,7 +47,7 @@ My name is Daniel, I'm Brazilian and I love my country.
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
-<br><br>
+<br>
 I am always eager to learn new things.
 
 **Open to exciting opportunities! 🌟**
