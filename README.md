@@ -1,3 +1,4 @@
+
 # :man_technologist: Daniel Rodrigues Pereira
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rodriguesxxx/)
@@ -6,7 +7,7 @@
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank)](https://www.hackerrank.com/profile/rodriguesx_dani1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/rodriguesxxx/)
 
-## Hello World 👋
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋" />
 
 My name is Daniel, I'm Brazilian and I love my country.
 <div style="display: flex;" align=center>
