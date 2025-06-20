@@ -14,22 +14,6 @@
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesxxx&layout=compact&theme=transparent">
 </div>
-
-
-
-
-## 🔧 Technical Skills
-- Solid foundation in Java ☕️
-- Fluent in Python/Flask 🐍
-- Expertise in PHP/Laravel 🚀
-- Proficient in relational databases 📊
-- Web (HTML/CSS/JS)🌐
-
-
-## 🔧 Soft Skills
-- **Leadership** - I worked as a team leader in several robotics competitions.
-- **Communication** - I have excellent communication, I can express myself clearly and objectively.
-- **Discipline** - I have the necessary discipline to carry out any task with excellence.
   
 ## 💻 Tech
 <div style="display: flex">
